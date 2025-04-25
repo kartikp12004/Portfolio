@@ -10,11 +10,11 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Shubham Agrawal - Full Stack Developer", // Replace "Your Name" with your actual name
+  title: "Kartik Pandey - Full Stack Developer", // Replace "Your Name" with your actual name
   description:
     "Building scalable and performant web applications with modern technologies.",
   keywords: [
-    "Shubham Agrawal", // Replace "Your Name" with your actual name
+    "Kartik Pandey", // Replace "Your Name" with your actual name
     "Full Stack Developer",
     "React",
     "Next.js",
