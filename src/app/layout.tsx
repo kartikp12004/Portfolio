@@ -10,11 +10,11 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Kartik Pandey - Full Stack Developer", // Replace "Your Name" with your actual name
+  title: "Kartik Pandey - Full Stack Developer",
   description:
     "Building scalable and performant web applications with modern technologies.",
   keywords: [
-    "Kartik Pandey", // Replace "Your Name" with your actual name
+    "Kartik Pandey",
     "Full Stack Developer",
     "React",
     "Next.js",
@@ -22,27 +22,27 @@ export const metadata: Metadata = {
     "Web Developer",
   ],
   openGraph: {
-    title: "Kartik Pandey - Portfolio", // Replace "Your Name" with your actual name
+    title: "Kartik Pandey - Portfolio",
     description:
       "Building scalable and performant web applications with modern technologies.",
-    url: "#", // Replace "#" with your deployed website URL
-    siteName: "Your Name Portfolio", // Replace "Your Name" with your actual name
+    url: "https://kartik-portfolio-wheat.vercel.app",
+    siteName: "Kartik Pandey Portfolio",
     images: [
       {
-        url: "/img/preview.png", // Take a screenshot of your homepage and save it as "preview.png" in the "public/img" folder.
+        url: "/img/preview.png",
         width: 1200,
         height: 630,
-        alt: "Your Name - Portfolio", // Replace "Your Name" with your actual name
+        alt: "Kartik Pandey - Portfolio",
       },
     ],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Your Name - Portfolio", // Replace "Your Name" with your actual name
+    title: "Kartik Pandey - Portfolio",
     description:
       "Building scalable and performant web applications with modern technologies.",
-    images: ["/img/preview.png"], // Take a screenshot of your homepage and save it as "preview.png" in the "public/img" folder.
+    images: ["/img/preview.png"],
   },
   robots: "index, follow",
 };
