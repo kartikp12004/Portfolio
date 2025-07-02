@@ -203,7 +203,7 @@ export const education: EducationEntry[] = [
     date: "2022 – 2026",
     scoreLabel: "CGPA",
     score: "7.09",
-    location: "Prayagraj, Uttar Pradesh",
+    // location: "Prayagraj, Uttar Pradesh",
   },
   {
     institution: "C.L.Inter Mediate College",
